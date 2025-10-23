@@ -5,14 +5,15 @@
 
 ## Установка (5 минут)
 
-1. **Скачай**: Перейди по [ссылке на релиз](https://github.com/vf12776-ux/tg-cleaner/releases/latest). Скачай `TG_Cleaner.zip`.
-2. **Распакуй**: Двойной клик на `TG_Cleaner.zip` — получишь `TG_Cleaner.app`.
+1. **Скачай**: Отсканируй QR-код или кликни [здесь](https://github.com/vf12776-ux/tg-cleaner/releases/download/v1.0/TG_Cleaner_v1.0.zip).
+2. **Распакуй**: Двойной клик на `TG_Cleaner_v1.0.zip` → получишь `TG_Cleaner.app`.
 3. **Установи**: Перетащи `TG_Cleaner.app` в `/Applications`.
-4. **Запусти**: Двойной клик на `TG_Cleaner.app`:
-   - Если macOS Ventura ругается ("неизвестный разработчик"): `Системные настройки → Конфиденциальность и безопасность → "Открыть"`.
-   - Или в терминале: `xattr -d com.apple.quarantine /Applications/TG_Cleaner.app`.
+4. **Запусти**: 
+   - Двойной клик на `TG_Cleaner.app`. Если macOS выдаёт "Приложение нельзя открыть, так как не удалось проверить разработчика":
+     - Щёлкни правой кнопкой на `TG_Cleaner.app` → "Открыть" → кликни "Открыть" в диалоге.
+     - Или в терминале: `xattr -d com.apple.quarantine /Applications/TG_Cleaner.app` и `open /Applications/TG_Cleaner.app`.
    - Разреши доступ к папке `Library`, если macOS попросит.
-5. **Готово!** Увидишь уведомление "TG Cleaner установлен!". Кэш чистится по понедельникам в 3:00 автоматически.
+5. **Готово!** Увидишь уведомление "TG Cleaner установлен!". Кэш чистится по понедельникам в 3:00.
 
 ## Как работает
 
