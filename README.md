@@ -1,3 +1,4 @@
+<img width="1113" height="1113" alt="qr-code (7)" src="https://github.com/user-attachments/assets/0dcfde73-7e63-4c3f-ae87-984e53e81161" />
 # TG Cleaner
 
 Программа для автоматической очистки кэша Telegram на macOS. Скачай, установи, запусти один раз — и кэш чистится раз в неделю сам. Никаких настроек!
